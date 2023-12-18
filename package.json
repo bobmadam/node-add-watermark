@@ -1,0 +1,24 @@
+{
+  "name": "node-add-watermark",
+  "version": "1.0.0",
+  "description": "Example Node.js add Image Watermak using Jimp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Bob Maulana Adam",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.10",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "http-errors": "^2.0.0",
+    "prettier": "^2.0.5"
+  }
+}
